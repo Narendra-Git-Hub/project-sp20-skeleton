@@ -1,4 +1,4 @@
-# CS 170 Project Spring 2020
+# New project for college student
 
 Take a look at the project spec before you get started!
 
