@@ -1,4 +1,4 @@
-# New project for college student
+# New project for college students
 
 Take a look at the project spec before you get started!
 
